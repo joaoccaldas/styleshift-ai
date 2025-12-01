@@ -1,11 +1,11 @@
-import { GoogleGenAI } from "@google/genai";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const getAiClient = () => {
   const apiKey = process.env.API_KEY;
   if (!apiKey) {
     throw new Error("API Key is missing. Please check your environment variables.");
   }
-  return new GoogleGenAI({ apiKey });
+  return new GoogleGenerativeAI({ apiKey });
 };
 
 /**
