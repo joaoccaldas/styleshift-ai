@@ -1,55 +1,16 @@
-# StyleShift AI
-
-🎨 AI-powered virtual try-on app for clothing using Gemini AI for intelligent style transformation and outfit visualization.
-
-## Features
-
-- **Camera & Upload**: Capture live photos or upload existing images
-- **AI Style Transfer**: Transform outfits using Gemini AI
-- **Style Catalog**: Choose from casual, business, summer, cyber, and more styles
-- **Sensitive Content Toggle**: Optional NSFW filtering
-- **Download Results**: Save generated images
-
-## Tech Stack
-
-- React 18 + TypeScript
-- Vite (Build tool)
-- Tailwind CSS
-- Google Gemini AI
-- Lucide React (Icons)
-
-## Setup
-
-### Local Development
-
-```bash
-git clone https://github.com/joaoccaldas/styleshift-ai.git
-cd styleshift-ai
-npm install
-```
-
-Create `.env` file:
-```
-REACT_APP_GEMINI_API_KEY=your_api_key_here
-```
-
-Run development server:
-```bash
-npm run dev
-```
-
-## Deploy to Render
-
-1. Connect this GitHub repo to Render
-2. Create a **Static Site**
-3. Build command: `npm install && npm run build`
-4. Publish directory: `dist`
-5. Add environment variable: `REACT_APP_GEMINI_API_KEY`
-
-## Entry Point
-
-`index.tsx` → `App.tsx` → Main application
-
-## License
-
-MIT
+IyBTdHlsZVNoaWZ0IEFJCgrwn46oIEludGVsbGlnZW50IFN0eWxlIFRyYW5z
+Zm9ybWF0aW9uCgpBbiBBSS1wb3dlcmVkIHZpcnR1YWwgdHJ5LW9uIGFwcCBm
+b3IgY2xvdGhpbmcgdXNpbmcgR2VtaW5pIEFJIGZvciBzdHlsZSB0cmFuc2Zv
+cm1hdGlvbiBhbmQgb3V0Zml0IHZpc3VhbGl6YXRpb24uCgojIyBGZWF0dXJl
+cwotICoqQ2FtZXJhICYgVXBsb2FkKio6IENhcHR1cmUgbGl2ZSBwaG90b3Mg
+b3IgdXBsb2FkIGV4aXN0aW5nIGltYWdlcwotICoqQUkgU3R5bGUgVHJhbnNm
+ZXIqKjogVHJhbnNmb3JtIG91dGZpdHMgdXNpbmcgR2VtaW5pIEFJCi0gKipT
+dHlsZSBDYXRhbG9nKio6IENob29zZSBmcm9tIGNhc3VhbCwgYnVzaW5lc3Ms
+IHN1bW1lciwgY3liZXIsIGFuZCBtb3JlIHN0eWxlcwojLiMgU2Vuc2l0aXZl
+IENvbnRlbnQgVG9nZ2xlOiBPcHRpb25hbCBOU0ZXIGZpbHRlcmluZwojLiMg
+RG93bmxvYWQgUmVzdWx0czogU2F2ZSBnZW5lcmF0ZWQgaW1hZ2VzCgojIyBU
+ZWNoIFN0YWNrCi0gUmVhY3QgMTggKyBUeXBlU2NyaXB0Ci0gVml0ZSAoQnVp
+bGQgdG9vbCkKLSBUYWlsd2luZCBDU1MKLSBHb29nbGUgR2VtaW5pIEFJCi0g
+THVjaWRlIFJlYWN0IChJY29ucykKCiMjIFN0YXR1cwpDb21wbGV0ZSBkZW1v
+LiBCdWlsdCB0byBleHBsb3JlIEFJIGluIGZhc2hpb24gdGVjaC4KCioiQnVpbHQg
+YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
