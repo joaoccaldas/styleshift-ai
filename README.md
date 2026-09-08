@@ -1,16 +1,36 @@
-IyBTdHlsZVNoaWZ0IEFJCgrwn46oIEludGVsbGlnZW50IFN0eWxlIFRyYW5z
-Zm9ybWF0aW9uCgpBbiBBSS1wb3dlcmVkIHZpcnR1YWwgdHJ5LW9uIGFwcCBm
-b3IgY2xvdGhpbmcgdXNpbmcgR2VtaW5pIEFJIGZvciBzdHlsZSB0cmFuc2Zv
-cm1hdGlvbiBhbmQgb3V0Zml0IHZpc3VhbGl6YXRpb24uCgojIyBGZWF0dXJl
-cwotICoqQ2FtZXJhICYgVXBsb2FkKio6IENhcHR1cmUgbGl2ZSBwaG90b3Mg
-b3IgdXBsb2FkIGV4aXN0aW5nIGltYWdlcwotICoqQUkgU3R5bGUgVHJhbnNm
-ZXIqKjogVHJhbnNmb3JtIG91dGZpdHMgdXNpbmcgR2VtaW5pIEFJCi0gKipT
-dHlsZSBDYXRhbG9nKio6IENob29zZSBmcm9tIGNhc3VhbCwgYnVzaW5lc3Ms
-IHN1bW1lciwgY3liZXIsIGFuZCBtb3JlIHN0eWxlcwojLiMgU2Vuc2l0aXZl
-IENvbnRlbnQgVG9nZ2xlOiBPcHRpb25hbCBOU0ZXIGZpbHRlcmluZwojLiMg
-RG93bmxvYWQgUmVzdWx0czogU2F2ZSBnZW5lcmF0ZWQgaW1hZ2VzCgojIyBU
-ZWNoIFN0YWNrCi0gUmVhY3QgMTggKyBUeXBlU2NyaXB0Ci0gVml0ZSAoQnVp
-bGQgdG9vbCkKLSBUYWlsd2luZCBDU1MKLSBHb29nbGUgR2VtaW5pIEFJCi0g
-THVjaWRlIFJlYWN0IChJY29ucykKCiMjIFN0YXR1cwpDb21wbGV0ZSBkZW1v
-LiBCdWlsdCB0byBleHBsb3JlIEFJIGluIGZhc2hpb24gdGVjaC4KCioiQnVpbHQg
-YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
+# StyleShift AI
+
+**Intelligent virtual try-on for clothing.** Capture or upload a photo and reimagine the outfit across different styles, powered by Google Gemini for the style transformation and visualization.
+
+## Features
+
+- **Camera & upload** — capture a live photo or bring your own image
+- **AI style transfer** — restyle outfits with Gemini
+- **Style catalog** — casual, business, summer, cyber and more
+- **Optional sensitive-content filter** — safety toggle for generated results
+- **Download results** — save the generated images
+
+## Tech stack
+
+- React 18 + TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini API
+- Lucide React (icons)
+
+## Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+Set your Gemini API key in a local `.env` (see `.env.example` if present) — never commit real keys.
+
+## Status
+
+Working demo, built to explore how AI can assist in fashion and personal styling.
+
+---
+
+Built by [João Caldas](https://github.com/joaoccaldas).
