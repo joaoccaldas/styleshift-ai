@@ -1,16 +1,31 @@
-IyBTdHlsZVNoaWZ0IEFJCgrwn46oIEludGVsbGlnZW50IFN0eWxlIFRyYW5z
-Zm9ybWF0aW9uCgpBbiBBSS1wb3dlcmVkIHZpcnR1YWwgdHJ5LW9uIGFwcCBm
-b3IgY2xvdGhpbmcgdXNpbmcgR2VtaW5pIEFJIGZvciBzdHlsZSB0cmFuc2Zv
-cm1hdGlvbiBhbmQgb3V0Zml0IHZpc3VhbGl6YXRpb24uCgojIyBGZWF0dXJl
-cwotICoqQ2FtZXJhICYgVXBsb2FkKio6IENhcHR1cmUgbGl2ZSBwaG90b3Mg
-b3IgdXBsb2FkIGV4aXN0aW5nIGltYWdlcwotICoqQUkgU3R5bGUgVHJhbnNm
-ZXIqKjogVHJhbnNmb3JtIG91dGZpdHMgdXNpbmcgR2VtaW5pIEFJCi0gKipT
-dHlsZSBDYXRhbG9nKio6IENob29zZSBmcm9tIGNhc3VhbCwgYnVzaW5lc3Ms
-IHN1bW1lciwgY3liZXIsIGFuZCBtb3JlIHN0eWxlcwojLiMgU2Vuc2l0aXZl
-IENvbnRlbnQgVG9nZ2xlOiBPcHRpb25hbCBOU0ZXIGZpbHRlcmluZwojLiMg
-RG93bmxvYWQgUmVzdWx0czogU2F2ZSBnZW5lcmF0ZWQgaW1hZ2VzCgojIyBU
-ZWNoIFN0YWNrCi0gUmVhY3QgMTggKyBUeXBlU2NyaXB0Ci0gVml0ZSAoQnVp
-bGQgdG9vbCkKLSBUYWlsd2luZCBDU1MKLSBHb29nbGUgR2VtaW5pIEFJCi0g
-THVjaWRlIFJlYWN0IChJY29ucykKCiMjIFN0YXR1cwpDb21wbGV0ZSBkZW1v
-LiBCdWlsdCB0byBleHBsb3JlIEFJIGluIGZhc2hpb24gdGVjaC4KCioiQnVpbHQg
-YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
+# StyleShift AI
+
+🎨 Intelligent Style Transformation
+
+An AI-powered virtual try-on app for clothing using Gemini AI for style transformation and outfit visualization.
+
+## Features
+- **Camera & Upload**: Capture live photos or upload existing images
+- **AI Style Transfer**: Transform outfits using Gemini AI
+- **Style Catalog**: Choose from casual, business, summer, cyber, and more styles
+#.# Sensitive Content Toggle: Optional NSFW filtering
+#.# Download Results: Save generated images
+
+## Tech Stack
+- React 18 + TypeScript
+- Vite (Build tool)
+- Tailwind CSS
+- Google Gemini AI
+- Lucide React (Icons)
+
+## Status
+Complete demo. Built to explore AI in fashion tech.
+
+*"Built by João Caldas | joaoccaldas@gmail.com"*
+
+## Project context
+
+This is a personal, self-directed learning project by João Caldas. I learn by building real projects, comparing approaches, debugging failures, and documenting what I discover.
+
+AI tools are used extensively during research, design, coding, debugging, testing, and documentation as part of that learning process. AI-generated suggestions are treated as inputs to review, not proof of correctness. Important behavior, claims, security boundaries, and data handling should be tested and documented.
+
